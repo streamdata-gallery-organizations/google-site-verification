@@ -4,7 +4,7 @@ x-collection-name: Google Site Verification
 x-complete: 1
 info:
   title: Google Site Verification
-  description: verifies-ownership-of-websites-or-domains-with-google
+  description: verifies-ownership-of-websites-or-domains-with-google-
   contact:
     name: Google
     url: https://google.com
